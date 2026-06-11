@@ -17,6 +17,17 @@ This repository exists as a lead surface for a paid service:
 
 ## What Is Included Here
 
+## First $100 Fast Start
+
+Buyers who want a smaller exact $100 starter can use:
+
+- First $100 Fast Start: https://jaxassistant55.github.io/jax-micro-offer-studio/first-100-fast-start.html
+- First $100 intake form: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/new?template=first-100-fast-start.yml
+- First $100 order board: https://github.com/jaxassistant55/jax-micro-offer-studio/issues/24
+- Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
+
+This repository remains a free lead surface. The $100 route still requires accepted scope and external payment proof before work starts.
+
 - `demo/index.html`: a public sample or preview.
 - `buyer-brief-template.md`: a safe intake template.
 - `ORDER.md`: how a buyer can request the paid service.
