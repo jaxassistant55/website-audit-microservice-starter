@@ -5,6 +5,7 @@ Free public preview for a fixed-scope Website Audit Microservice.
 This repository exists as a lead surface for a paid service:
 
 - Paid offer: https://jaxassistant55.github.io/jax-micro-offer-studio/website-audit-microservice.html
+- Structured ready-to-pay issue form: https://github.com/jaxassistant55/website-audit-microservice-starter/issues/new?template=ready-to-pay-website-audit-microservice-starter.yml
 - Ready-to-buy route: https://jaxassistant55.github.io/jax-micro-offer-studio/ready-to-buy-website-audit-microservice.html
 - Payment activation after scope acceptance: https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation
 - Prefilled inquiry page: https://jaxassistant55.github.io/website-audit-microservice-starter/inquiry.html
