@@ -19,3 +19,7 @@ Save proof privately with:
 - payout or released-balance status.
 
 Public GitHub issues should not contain private buyer data or payment credentials.
+
+## Payment Activation Link
+
+If scope is accepted, use https://jaxassistant55.github.io/jax-micro-offer-studio/payment-activation to generate a buyer payment message from a seller-owned payment URL. This is not payment proof by itself.
